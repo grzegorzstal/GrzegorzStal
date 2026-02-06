@@ -41,7 +41,7 @@ Please do feel free to explore my work and connect if anything resonates!
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-- 📚 **Current Education**: [MIT MicroMasters in Statistics and Data Science](https://micromasters.mit.edu/ds) (January 2026 onwards)
+- 📚 **Current Education**: [MIT MicroMasters in Statistics and Data Science](https://micromasters.mit.edu/ds) (probabilistic models, machine learning, statistical inference, data analysis)
   
 - 📖 **Completed**: [Harvard CS50P - Introduction to Programming with Python](https://cs50.harvard.edu/python/) (functions, variables, loops, exceptions, libraries, file I/O, regex, OOP, testing)
 
